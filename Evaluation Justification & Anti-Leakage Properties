@@ -1,0 +1,3 @@
+Non-OCR Solvable: Neither operating income nor H1/H2 sums are rendered on the chart; they must be computed from unstated relationships.
+Deterministic & Objective: The target figure has an exact closed-form solution with terminating decimals, preventing ambiguity in automated regex evaluation.
+Dual-Axis Grounding: Successfully prevents model hallucinations by requiring cross-referencing between distinct left (absolute $M) and right (ratio %) scales.
